@@ -1,0 +1,2 @@
+MLB-StatsAPI==1.7
+pandas
